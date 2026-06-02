@@ -39,3 +39,19 @@ div {
   background: #0f172a;
   border-radius: 8px;
 }
+.project-card {
+  background: #0f172a;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border: 1px solid #334155;
+}
+
+.project-card a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+}
