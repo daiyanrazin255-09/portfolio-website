@@ -9,6 +9,7 @@ header {
   background: #1e293b;
   padding: 40px;
   text-align: center;
+  position: relative;
 }
 
 h1 {
@@ -64,6 +65,9 @@ div {
   text-decoration: none;
   border-radius: 5px;
   font-weight: bold;
+  position: absolute;
+  top: 20px;
+  right: 20px;
 }
 
 .btn:hover {
